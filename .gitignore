@@ -5,12 +5,19 @@ __pycache__/
 
 # C extensions
 *.so
+<<<<<<< HEAD
 *.csv
+=======
+>>>>>>> 2ee8a959e6e247fbd6c3edac68c8c2993c28d8df
 
 # Distribution / packaging
 .Python
 build/
+<<<<<<< HEAD
 developreggs/
+=======
+develop-eggs/
+>>>>>>> 2ee8a959e6e247fbd6c3edac68c8c2993c28d8df
 dist/
 downloads/
 eggs/
